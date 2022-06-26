@@ -1,0 +1,14 @@
+App Obras Sociales
+
+- Crear usuarios
+	- Loguearse
+	- Admin/user
+- Agregar/Editar/Eliminar OS
+	- Bono
+	- Autorización (S/N)
+	- Nombre
+	- Monto de pago de OS al médico
+	- Al día
+	- Tiempo de deuda
+- Buscador
+- 
