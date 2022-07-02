@@ -11,4 +11,3 @@ App Obras Sociales
 	- Al día
 	- Tiempo de deuda
 - Buscador
-- 
