@@ -1,16 +1,16 @@
-import React from 'react'
+import React from "react";
 
 function OsList() {
   return (
     <table>
       <thead>
         <tr>
-            <th>Obra Social</th>
-            <th>Bono</th>
-            <th>Autorización</th>
-            <th>Monto de Pago</th>
-            <th>Al día</th>
-            <th>Tiempo de deuda</th>
+          <th>Obra Social</th>
+          <th>Bono</th>
+          <th>Autorización</th>
+          <th>Monto de Pago</th>
+          <th>Al día</th>
+          <th>Tiempo de deuda</th>
         </tr>
       </thead>
 
@@ -25,7 +25,7 @@ function OsList() {
         </tr>
       </tbody>
     </table>
-  )
+  );
 }
 
-export default OsList
+export default OsList;
